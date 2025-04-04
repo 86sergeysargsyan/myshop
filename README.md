@@ -7,7 +7,7 @@ Engineering a Slim Custom E-commerce/Web Shop Back End from Scratch with its own
 2. Create a folder and clone the project `git clone https://github.com/R-H-T/MyShop.git`.
 3. Open the project in Visual Studio and hit run. It will automatically open your default browser at `http://localhost:5001`.
 ---
-
+##
 ### Screen Shots
 Products
 ![][image-1]
